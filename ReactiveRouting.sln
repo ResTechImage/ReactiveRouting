@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveRouting", "ReactiveRouting\ReactiveRouting.csproj", "{D4F4EC57-F7EE-4A7C-ABA8-D18B8B5FFABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F4EC57-F7EE-4A7C-ABA8-D18B8B5FFABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F4EC57-F7EE-4A7C-ABA8-D18B8B5FFABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F4EC57-F7EE-4A7C-ABA8-D18B8B5FFABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F4EC57-F7EE-4A7C-ABA8-D18B8B5FFABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D333742-31A4-4B0F-AF5C-2C402DEC6B04}
+	EndGlobalSection
+EndGlobal
